@@ -1,6 +1,6 @@
 {
     "name": "Food to Cart",
-    "short_name": "Add to Cart",
+    "short_name": "Food Cart",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
